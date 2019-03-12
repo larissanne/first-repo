@@ -1,6 +1,6 @@
-#Linx
+# Linux
 
-##Commands
+## Commands
 
 `ls` - List Directory
 `chmod` - Change Modification
