@@ -1,1 +1,1 @@
-first repositary 
+first repository 
